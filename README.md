@@ -1,6 +1,7 @@
 # Curso de Notion | #Platzi 💚
 * Penúltimo curso de enero para #platzipractice (aprender y poner en práctica)👩‍💻
 * [Enlace directo al curso](https://platzi.com/cursos/notion/)
+* [Enlace directo al notion](https://www.notion.so/Platzi-Practice-d061d5695fbf40ba983f8d2577e26b0b)
 # Topics del curso
 * Proyecto -> Second brain (Todos las herramientas de Notion a prueba para construirlo)
 * Retos -> Solución y prueba
