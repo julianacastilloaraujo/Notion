@@ -9,7 +9,7 @@
 
 # Maestra: Alex Camacho
 * Software engineer en @cisco
-* Notion (🌟)
+* [LinkedIn](https://www.linkedin.com/in/alexcamachogz/)
 * Parte de #WomenInTech -> Mujeres en tecnologia
 * @technolatinas, comunidad de mujeres en 🇲🇽
 
